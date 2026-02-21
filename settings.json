@@ -1,0 +1,13 @@
+{
+  "python.defaultInterpreterPath": "python",
+  "python.terminal.activateEnvironment": false,
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "**/node_modules": true,
+    "**/.git": true
+  },
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "python-envs.defaultEnvManager": "ms-python.python:system",
+  "python-envs.pythonProjects": []
+}
